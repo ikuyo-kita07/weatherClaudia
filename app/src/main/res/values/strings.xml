@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Claudia</string>
+    <string name="placebo"></string>
+    <string name="degree">°</string>
+    <string name="temperature_format">%1$s%2$s</string>
+    <string name="DateExample">04 August 2026</string>
+    <string name="wind">Wind</string>
+    <string name="humidity">Humidity</string>
+    <string name="rain">Rain</string>
+    <string name="countryExample">Japan</string>
+    <string name="commentExample">overcast clouds</string>
+    <string name="refreshing">Refreshing…</string>
+    <string-array name="themes">
+        <item>Dynamic Light</item>
+        <item>Pitch Black</item>
+        <item>Gray</item>
+    </string-array>
+    <string-array name="tempFormat">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+    <string name="themeTitle">Theming</string>
+    <string name="theme">Themes</string>
+    <string name="additional">Additional Settings</string>
+    <string name="tempFormats">Temperature Format</string>
+    <string name="creds">Credits</string>
+    <string name="thanks_title">View Credits</string>
+</resources>
