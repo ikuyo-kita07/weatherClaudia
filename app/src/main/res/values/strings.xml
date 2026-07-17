@@ -24,9 +24,8 @@
     <string name="fonts">Fonts</string>
     <string name="fonts_source">apple.com/fonts\nfonts.google.com</string>
     <string name="made_love">Made with ❤️ by Kitaaa</string>
-    <string name="locationDenial">I dunno what made you do that, I swear, I don\'t spy on you like some corporations gng</string>
     <string name="welcome_text">Hello, sensei!</string>
     <string name="requestLocation">Sensei, I need your location temporarily.</string>
     <string name="reqInfoOne">Your location stays on your device</string>
-    <string name="reqInfoTwo">We only use your location to determine your latitude and longitude for weather information. Your location is never stored or sent anywhere other than the weather service required to fetch the forecast. If you\'re curious, you can always review the source code.</string>
+    <string name="reqInfoTwo">We only use your location to determine your latitude and longitude for weather information. Your location is never stored or sent anywhere other than the weather service required to fetch the forecast. If you\'re curious, you can always review the source code. If you don\'t want to give the permission, you can always manage the coordinates inside the settings app.</string>
 </resources>
