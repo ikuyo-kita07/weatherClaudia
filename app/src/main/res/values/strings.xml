@@ -36,6 +36,7 @@
     <string name="pleasePut">Fill the coordinates to fetch weather data.</string>
     <string name="refreshingData">refreshing the data…</string>
     <string name="saved">Coordinates has been saved.</string>
+    <string name="refreshPlease">Please refresh to get the appropriate temperature data.</string>
     <string name="percentageSymbol">%</string>
     <!-- comments for the typa shii -->
     <string name="overcast">overcast</string>
